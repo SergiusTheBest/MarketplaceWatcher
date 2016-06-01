@@ -1,0 +1,10 @@
+{
+    "amUser": "<placeholder>",
+    "amPassword": "<placeholder>",
+    "notifyEmail": "<placeholder>",
+    "sender": {
+        "smtp": "<placeholder>",
+        "email": "<placeholder>",
+        "password": "<placeholder>"
+    }
+}
