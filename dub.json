@@ -1,0 +1,6 @@
+{
+    "name": "marketplace-watcher",
+    "description": "Watches marketplace and sends a notification email",
+    "targetPath": "bin",
+    "copyFiles": ["src/config.sample.json"]
+}
